@@ -6,11 +6,11 @@ You can find all assets (js & css) files in `/resources/assets/`. The JS & CSS f
 
 After making changes to the assets, please run `npm run production`. Or have gulp compile the assets for you after each change automatically: `npm run watch`.
 
-# Set up the community website
+# Set up the Community website
 
 In the wiki you can find a walk-through guide on how to [install the community website on your own Digital Ocean server](https://github.com/GameserverApp/Community-Website/wiki/Digital-Ocean-droplet-setup). You can skip the steps below if you choose this option.
 
-## Install
+## Installation Process
 
 Rename `.env.example` to `.env`. Change the parameters in the `.env` to your GSA OAuth API keys as shown on your [API settings page](https://github.com/GameserverApp/community-website). 
 
